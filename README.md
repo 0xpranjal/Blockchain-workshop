@@ -6,4 +6,18 @@
 
  *Please consider giving this repo a ⭐ if this is helpful to you!*
 
+
+## Useful Links
+- [Blockchain introduction ppt](https://docs.google.com/presentation/d/1bo-kK0Cy9righ2SQYcf9YuYSIxfn1bfInsKTzEG8pmQ/edit?usp=sharing)
+- [Ethereum introduction]()
+- [Ethereum interactive ppt]()
+
+
+
+
+
+
+
+
+
 <img src="https://raw.githubusercontent.com/Bhard27/Blockchain-workshop/main/Nitr-workshop.jpeg?token=AMFAV32N5DAGR2QHE74DABTAHAVLW" height=550 width = 550>
