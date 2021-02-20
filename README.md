@@ -9,10 +9,11 @@
 
 ## Useful Links
 - [Blockchain introduction ppt](https://docs.google.com/presentation/d/1bo-kK0Cy9righ2SQYcf9YuYSIxfn1bfInsKTzEG8pmQ/edit?usp=sharing)
-- [Ethereum introduction]()
-- [Ethereum interactive ppt]()
-
-
+- [Ethereum introduction](https://docs.google.com/presentation/d/1lMsvrOPzJFYDWCcPkXMkgiYl1LzWkABGmT-DN7DuQag/edit?usp=sharing)
+- [Ethereum interactive ppt](https://prezi.com/p/fzuvumj40nhq/?present=1)
+- [Remix](https://remix.ethereum.org/)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.1/)
+- [Solidity by example](https://solidity-by-example.org/)
 
 
 
